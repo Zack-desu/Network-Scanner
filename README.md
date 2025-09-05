@@ -30,10 +30,10 @@ python networkscannerr1.py
 
 Customization
 
-To scan a different network segment, manually edit the network variable in network_scanner.py:
+To scan a different network segment, manually edit the network variable in networkscanner1.py:
 
 ```python
-network = "192.168.0"  # Change to your network segment (e.g., "10.0.0")
+network = "192.168.0"
 ```
 
   Requirements
@@ -67,3 +67,4 @@ This project demonstrates:
   License
 
 MIT License - feel free to use and modify for educational purposes
+

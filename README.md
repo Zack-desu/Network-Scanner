@@ -20,8 +20,9 @@ A lightweight Python tool designed to scan local networks and identify active de
 ##### Basic Installation
 
 1. Clone this repository:
-   git clone https://github.com/\[Zack-desu]/network-scanner.git
-2. Navigate to the project directory:
+   git clone https://github.com/
+   Zack-desu/network-scanner.git
+3. Navigate to the project directory:
 
 cd network-scanner
 
@@ -72,4 +73,5 @@ network = "192.168.0"  # Change to your network segment
 &nbsp; License
 
 MIT License - feel free to use and modify for educational purposes.
+
 
